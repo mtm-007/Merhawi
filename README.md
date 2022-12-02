@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**merhawitsegay/merhawitsegay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there, I'm [Merhawi] <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    A <b>Junior Data Scientist</b> from Bay Area San Francisco.
+  </em>
+ </p>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<emm>
+
+
+  
+**A short intro about me:**
+
+-  I’m completed my Bachelor's of Science in Electrical Engineering 
+
+-  My interests are with Data Science 📊, Machine Learning, Football,  etc..;
+
+-  I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
+
+
+- 📫 ping me on [LinkedIn](https://www.linkedin.com/in/merhawi-mengisteab-78a206163/) to reach me;
+<br/> 
+</em>
