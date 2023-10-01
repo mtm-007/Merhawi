@@ -18,7 +18,7 @@
 
 -  I have a Bachelor of Science Degree in Electrical and Electronics Engineering, and I am passionate about solving business problems with Machine Learning  
 
--  My interests are with Data Science 📊, Machine Learning, NLP,  etc..;
+-  My interests are with Data Science, Machine Learning, NLP,  etc..;
 
 - A firm Believer on Self- motivated Learning of new Knowledge and skills and new Research Topics
 
